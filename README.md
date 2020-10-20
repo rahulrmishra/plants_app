@@ -12,6 +12,6 @@ The home screen also has a bottom bar for favourite plants and user profile.
  In the details screen, we have description for plants along with information about the temperature, humidity etc which are good for the plant.
  
  # Screenshots and Videos
-![Home Screen](https://user-images.githubusercontent.com/18341427/96545760-9e160580-12c6-11eb-96b3-05738bd23fb0.jpg)
-![Details Screen](https://user-images.githubusercontent.com/18341427/96545790-b0903f00-12c6-11eb-9276-2a04380dd1ce.jpg)
+<img src= "https://user-images.githubusercontent.com/18341427/96545760-9e160580-12c6-11eb-96b3-05738bd23fb0.jpg" width="200" height="400" />
+<img src= "https://user-images.githubusercontent.com/18341427/96545790-b0903f00-12c6-11eb-9276-2a04380dd1ce.jpg" width="200" height="400" />
 ![UI](https://user-images.githubusercontent.com/18341427/96546452-ea157a00-12c7-11eb-8c5a-415bc18f827a.gif)
